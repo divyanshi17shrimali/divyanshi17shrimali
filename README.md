@@ -1,5 +1,3 @@
-![logo](https://github.com/divyanshi17shrimali/divyanshi17shrimali/blob/main/Banner.png)
-
 <h1 align="center">Hi 👋, I'm Divyanshi Shrimali</h1>
 <h3 align="center">Machine Learning | Artificial Intelligence & Cybersecurity | Python Developer | Data Visualization | Passionate Learner</h3>
 
